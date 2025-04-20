@@ -1,5 +1,17 @@
 [
   {
+    "uuid": "43dcfb95-8946-3358-b743-87d85a033db5",
+    "name": "Natako2",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "95db8c1a-742f-3be5-964b-ea2e040263db",
+    "name": "KermitEru",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "ec3bd8dd-1c64-375a-a4a7-3651604ca4df",
     "name": "Patatahermoso",
     "level": 4,
